@@ -175,6 +175,8 @@ db.Delete(Email{}, "email LIKE ?", "%jinzhu%")
 // DELETE from emails where email LIKE "%jinzhu%";
 
 
+JSONB data ::
+https://medium.com/iostrap/manage-postgresql-json-data-with-go-golang-b0ae416972c5
 
 
 
